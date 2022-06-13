@@ -1,0 +1,10 @@
+com\trx\auth\model\Request.class
+com\trx\auth\model\Response.class
+com\trx\auth\TransactionAuthorizerApplication.class
+com\trx\auth\model\Transaction.class
+com\trx\auth\model\Account.class
+com\trx\auth\services\TrxService.class
+com\trx\auth\enums\ViolationsEnum.class
+com\trx\auth\services\impl\TrxServiceImpl.class
+com\trx\auth\controllers\ApiController.class
+com\trx\auth\services\util\GeneralUtility.class
