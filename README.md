@@ -29,7 +29,7 @@ NOTA: Se debe esta logueado en la plataforma de https://hub.docker.com/
 
 ## Formas para verificación
 
-- Ingresar al aplicativo POSTMAN e importar el archivo "ayesa.postman_collection.json".
+- Ingresar al aplicativo POSTMAN e importar el archivo "ayesa.postman_collection.json" (https://github.com/oscaragr1990/TransactionAuthorizer-/blob/main/ayesa.postman_collection.json).
 - El archivo importado contiene 4 ejemplos de peticiones.
 	* put-tx : Ejemplo para inserta una cuenta
 	* put-account: Ejemplo para inserta una tx
