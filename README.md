@@ -31,7 +31,7 @@ NOTA: Se debe esta logueado en la plataforma de https://hub.docker.com/
 
 - Ingresar al aplicativo POSTMAN e importar el archivo "ayesa.postman_collection.json".
 - El archivo importado contiene 4 ejemplos de peticiones.
-	*put-tx : Ejemplo para inserta una cuenta
-	*put-account: Ejemplo para inserta una tx
-	*get-account: Consulta las cuentas existentes 
-	*get-account-tx: Consulta las transacciones existentes de una cuenta 
+	* put-tx : Ejemplo para inserta una cuenta
+	* put-account: Ejemplo para inserta una tx
+	* get-account: Consulta las cuentas existentes 
+	* get-account-tx: Consulta las transacciones existentes de una cuenta 
